@@ -8,3 +8,5 @@ Some extra lines.
 Some extra lines.
 
 Some extra lines from Eclipse.
+
+Some more lines from Eclipse.
